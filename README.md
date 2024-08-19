@@ -5,4 +5,3 @@ Integrantes:
 - Fernando Couto
 - Tito Chen
 - Vinicius Lima
-- 
